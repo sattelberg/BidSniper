@@ -2,8 +2,8 @@ import http.cookiejar
 import urllib
 
 url = "https://www.ebay.com/signin"
-username = "allansattriv@gmail.com"
-password ="assass1"
+username = "******"
+password ="******"
 
 class BidSniper(object):
 	def __init__(self,username,password):
